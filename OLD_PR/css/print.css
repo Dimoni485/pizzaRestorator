@@ -1,0 +1,25 @@
+.menupanel{
+	display:none;
+}
+.infopanel{
+	display:none;
+}
+.userpanel{
+	display:none;
+}
+.menutab{
+	display:none;
+}
+.logotext{
+	display:none;
+}
+.tableall{
+	magin-left:-130;
+}
+.contenttab{
+	margin-left:-130;
+	border:none;
+}
+a{display: none;}
+.razdelitel{border:none;
+box-shadow: none;}

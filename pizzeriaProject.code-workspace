@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "/srv/www"
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"database": "pizzeria",
+				"dialect": "MySQL",
+				"name": "pizzeria",
+				"password": "root",
+				"port": 3306,
+				"server": "localhost",
+				"username": "root"
+			}
+		]
+	}
+}

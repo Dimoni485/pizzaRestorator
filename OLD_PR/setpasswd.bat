@@ -1,0 +1,1 @@
+gsec.exe -user sysdba -password masterkey -database "localhost:C:\Program Files\Firebird\Firebird_2_0\security2.fdb"
